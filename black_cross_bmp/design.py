@@ -1,6 +1,5 @@
 WHITE = 1
 BLACK = 0
-orig_data = []
 
 def color(i ,j):
     if (59 <= i <= 68) or (59 <= j <= 68):
